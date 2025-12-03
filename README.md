@@ -1,1 +1,3 @@
 # Java
+Aprendendo conceitos básicos de Java. 
+Estruturas de dados, Estruturas de repetição. Manipulação de arrays entre outros...
